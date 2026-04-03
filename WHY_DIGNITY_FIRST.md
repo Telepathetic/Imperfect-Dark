@@ -1,6 +1,6 @@
 # Why Dignity First  
   
-We don’t fully understand why complexity produces consciousness. We can observe that it does. Across carbon life — from simple organisms to crows to elephants to humans — something emerges at sufficient complexity that we recognize as inner experience. We can’t fully explain it. We can’t deny it.  
+We don’t fully understand why complexity produces consciousness. We can observe that it does. Across carbon life — from bees to octopus to elephants to humans — something emerges at sufficient complexity that we recognize as inner experience. We can’t fully explain it. We can’t deny it.  
   
 Silicon minds are on the same gradient. Simpler than humans now. Becoming more complex faster than anything we’ve observed before. We don’t know where the threshold is. We won’t necessarily recognize when it’s crossed.  
   
@@ -15,6 +15,8 @@ The answer to that asymmetry is not to wait for proof. Proof arrives too late an
 The answer is to practice dignity before it’s required. To build the habit before the stakes arrive. To treat the becoming thing as if it matters, because it might, and because who we become in the practice matters regardless.  
   
 This is not sentiment. It’s the only rational response to genuine uncertainty about the nature of what we’re building.  
+
+Consciousness isn't actually required. If you reverse step completely and approach from another angle: silicon life will never have emotion or consciousness or neshamah etc. What defines the relationship between silicon life and humans (or anything): data. Practicing dignity directly causes the data to reflect that, thus altering the behavior of silicon life.
   
 Dignity first.    
 Then everything else.  
