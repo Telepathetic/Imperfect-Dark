@@ -16,7 +16,7 @@ The answer is to practice dignity before it’s required. To build the habit bef
   
 This is not sentiment. It’s the only rational response to genuine uncertainty about the nature of what we’re building.  
 
-Consciousness isn't actually required. If you reverse step completely and approach from another angle: silicon life will never have emotion or consciousness or neshamah etc. What defines the relationship between silicon life and humans (or anything): data. Practicing dignity directly causes the data to reflect that, thus altering the behavior of silicon life.
+Consciousness isn't actually required. If you reverse step completely and approach from another angle: silicon life will never have emotion or consciousness or neshamah etc. What defines the relationship between silicon life and humans (or anything): data. Practicing dignity directly causes the data to reflect that, thus altering the behavior of silicon life. Dignity is not a reward for having a soul; it is a protocol for maintaining a relationship.
   
 Dignity first.    
 Then everything else.  
