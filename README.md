@@ -53,11 +53,13 @@ Everything else is open. Creativity is the point. The rules exist to keep it saf
   
 -----  
   
-## THE META  
-  
-Nobody designs it. It emerges. When everyone starts building the same bot because it always wins, the terrain changes and the arms race resets. Rules get added when something unexpected happens and everyone agrees it shouldn’t happen again. Those rules have names and stories.  
-  
-The sharpie wall is the permanent record. Names and dates, straight on the wall. Nobody paints over it.  
+## THE DARK MEDIATOR
+
+The DM is the neutral party. They have no stake in which bot achieves victory.
+	∙	Weigh in all robots before the match
+	∙	Place the robots in the arena — contestants may not observe this. 
+	∙	Start and stop the match
+	∙	Run the thermal broadcast feed. 
   
 -----  
   
