@@ -29,7 +29,7 @@ A box strong enough to resist the best robot weapons with room to spare, waterpr
 - Alkali resistant mesh tape on all cement board joints before RedGard  
 - Solid walls, caulk seams and waterproofed  
 - EVA foam lid seal  
-- Thermal IR camera mounted inside the lid, facing down at an isometric angle for depth. A small piece of sacrificial polycarbonate to protect the lens is advised.  
+- Thermal IR camera mounted inside the lid, facing down at an isometric angle for depth.
   
 Walls take hits. Build them beefy.  
   
