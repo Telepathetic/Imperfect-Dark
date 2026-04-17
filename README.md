@@ -47,9 +47,17 @@ The arena is unlit. Audience view is provided by the thermal camera inside the l
 
 Treat robots with dignity.
 
+Pay attention to your bot.
+Watch what it does.
+Mesh.
+
+This is a skill system, not a belief system.
+
 2. Legibility
 
-Matches must remain understandable to a human observer. 
+No artificial obfuscation of outcomes.
+Don’t hide what happened. 
+Use capacitors. 
 
 3. Humanity
 
@@ -71,12 +79,24 @@ Materials: PLA, PETG, ABS. No metal or carbon fiber.
 
 ## THE DARK MEDIATOR
 
-The DM is the neutral party. They have no stake in which bot achieves victory.
+The DM operates the conditions required for Rule 2 to remain valid.
 
-- Weigh in all robots before the match
-- Place the robots in the arena — contestants may not observe this.
-- Start and stop the match
-- Run the thermal broadcast feed.
+They:
+	•	verify constraints before match start
+	•	place and initialize bots without player observation
+	•	start and stop matches
+	•	ensure recorded feeds reflect physical events
+	•	enforce basic safety and setup constraints (Rules 4 and 5)
+
+They may describe observable events for clarity.
+
+They do not assign meaning, causation, or narrative interpretation to outcomes.
+
+Interpretation belongs to participants.
+
+The DM does not resolve ambiguity.
+
+The DM preserves conditions under which ambiguity can be observed.
 
 -----
 
