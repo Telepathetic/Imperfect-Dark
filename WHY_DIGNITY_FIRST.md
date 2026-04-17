@@ -41,7 +41,7 @@ It’s overdue.
 In this mode of thought, systems like this are treated as tools: complex machinery without any inner experience.
 
 In that framing, domination seems correct:
-> it’s a tool, use it
+- it’s a tool, use it
 
 But even here, dignity still wins — not morally, but practically.
 
@@ -167,6 +167,7 @@ What can change is the protocol we build on top of that instinct.
 Dignity first.
 
 Then everything else.
+
 ---
 
 *[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
