@@ -47,23 +47,23 @@ The arena is unlit. Audience view is provided by the thermal camera inside the l
 
 Treat robots with dignity.
 
-Pay attention to your bot.
-Watch what it does.
+Pay attention to your bot.  
+Watch what it does.  
 Mesh.
 
 This is a skill system, not a belief system.
 
 2. Legibility
 
-No artificial obfuscation of outcomes.
-Don’t hide what happened. 
+No artificial obfuscation of outcomes.  
+Don’t hide what happened.  
 Use capacitors. 
 
 3. Humanity
 
 Humans initiate all combat actions.
 
-Allowed: assistive control: stability, recovery
+Allowed: assistive control: stability, recovery  
 Not allowed: autonomous targeting, evasion, or engagement decisions
 
 4. Safety
@@ -72,7 +72,7 @@ Robots must have a physical disable method (switch, link, or equivalent).
 
 5. Accessibility
 
-Max weight: 500g
+Max weight: 500g  
 Materials: PLA, PETG, ABS. No metal or carbon fiber. 
 
 -----
