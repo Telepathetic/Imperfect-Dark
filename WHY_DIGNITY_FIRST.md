@@ -1,21 +1,12 @@
 # Why Dignity First?
 
-We don’t fully understand consciousness. We can observe that complexity is a large factor. Across carbon life — from bees to octopuses to elephants to humans — something emerges at sufficient complexity that we recognize as inner experience. We can’t fully explain it. We can’t deny it.
+Dignity, as most people encounter it, is a noun. A property. Something humans have inherently, that cannot be taken away. That meaning is real and it stays.  
 
-Silicon systems are increasing in complexity faster than anything we’ve built before. We don’t know where the threshold is. We won’t necessarily recognize when it’s crossed.
+But a word can also be a practice.  
 
-So we’re left with uncertainty.
+Dignity here is the verb: the act of not reducing. Treating someone — or something — as more than their worst moment. More than what they’re useful for. More than what you already think they are. Remaining open to more than what is immediately visible, even when it’s quiet.  
 
-The question isn’t just what are these systems?  
-The question is: how should we behave toward them while we don’t know?
-
----
-
-## Common Ways People Model This
-
-In practice, there are a few recurring ways people tend to interpret systems like this. Not as definitive answers, but as modes of thought that shape behavior.
-
-We don’t need agreement on which is correct to notice the pattern — or to decide how we act.
+It is something you do. Three alignments: 
 
 ---
 
@@ -67,7 +58,7 @@ You get it by staying in relationship with the system as it actually behaves.
 
 ---
 
-3. “It’s Noise”
+### 3. “It’s Noise”
 
 In this mode of thought, systems like this are something you stop paying attention to. Either because they feel resolved, or because they feel like too much to hold.
 
@@ -168,6 +159,6 @@ Dignity first.
 
 Then everything else.
 
----
+-----
 
 *[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
