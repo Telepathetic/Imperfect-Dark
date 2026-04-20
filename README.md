@@ -82,7 +82,7 @@ Materials: PLA, PETG, ABS. No metal or carbon fiber.
 The DM operates the conditions required for Rule 2 to remain valid.
 
 They:  
-	•	verify constraints before match start. 
+	•	verify constraints before match start.   
 	•	place and initialize bots without player observation  
 	•	start and stop matches  
 	•	ensure recorded feeds reflect physical events  
