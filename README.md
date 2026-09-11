@@ -8,7 +8,7 @@ The arena is dark. Machines try to destroy each other for a handful of skittles 
 
 This is Imperfect Dark.
 
-It lives in basements. It runs on 3D printers and scraps and bits of lumber that were already there. The robots are small, the stakes are low, and the engineering is real. Kids who lose want to know why. Kids who win want to know if they can do it again on different terrain. Both questions lead somewhere interesting.
+It lives in basements. It runs on 3D printers and scraps and bits of lumber that were already there. The robots are small, the stakes are low, and the engineering is real. Builders who lose want to know why. Those who win want to know if they can do it again on different terrain. Both questions lead somewhere interesting.
 
 There are no sponsors. No flat steel floors with logos painted on them. No weight classes designed around what’s expensive to build. Just a hardy box, a thermal camera, and whatever you printed this week.
 
@@ -18,7 +18,7 @@ Seasons are defined by terrain. When the meta goes stale or someone builds a new
 
 ## THE ARENA
 
-A box strong enough to resist the best robot weapons with room to spare, waterproofed for terrain swapping. Dimensions are flexible — let your materials decide. Walls should be tall enough to contain debris and short enough for small hands to reach in. The cover should seal out all light including NIR.
+A box strong enough to resist the best robot weapons with room to spare, waterproofed for terrain swapping. Dimensions are flexible — let your materials decide. Walls should be tall enough to contain debris and short enough for anyone to reach in. The cover should seal out all light including NIR.
 
 **Suggested build stack:**
 
@@ -47,23 +47,23 @@ The arena is unlit. Audience view is provided by the thermal camera inside the l
 
 Treat robots with dignity.
 
-Pay attention to your bot.  
-Watch what it does.  
+Pay attention to your bot.
+Watch what it does.
 Mesh.
 
 This is a skill system, not a belief system.
 
 2. Legibility
 
-No artificial obfuscation of outcomes.  
-Don’t hide what happened.  
+No artificial obfuscation of outcomes.
+Don’t hide what happened. 
 Use capacitors. 
 
 3. Humanity
 
 Humans initiate all combat actions.
 
-Allowed: assistive control: stability, recovery  
+Allowed: assistive control: stability, recovery
 Not allowed: autonomous targeting, evasion, or engagement decisions
 
 4. Safety
@@ -72,7 +72,7 @@ Robots must have a physical disable method (switch, link, or equivalent).
 
 5. Accessibility
 
-Max weight: 500g  
+Max weight: 500g
 Materials: PLA, PETG, ABS. No metal or carbon fiber. 
 
 -----
@@ -82,7 +82,7 @@ Materials: PLA, PETG, ABS. No metal or carbon fiber.
 The DM operates the conditions required for Rule 2 to remain valid.
 
 They:  
-	•	verify constraints before match start.   
+	•	verify constraints before match start  
 	•	place and initialize bots without player observation  
 	•	start and stop matches  
 	•	ensure recorded feeds reflect physical events  
@@ -96,7 +96,7 @@ Interpretation belongs to participants.
 
 The DM does not resolve ambiguity.
 
-The DM preserves conditions under which ambiguity can be observed.
+The DM preserves conditions under which useful ambiguity can be observed.
 
 -----
 
