@@ -100,9 +100,5 @@ The DM preserves conditions under which useful ambiguity can be observed.
 
 -----
 
-*Imperfect Dark is open. Build an arena. Make some robots. Start a chapter.*
-
------
-
 *Rules and ethos: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*  
 *Build documentation: [CERN OHL v2](https://ohwr.org/cern_ohl_s_v2.txt)*
